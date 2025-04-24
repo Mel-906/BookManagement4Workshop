@@ -1,2 +1,3 @@
 # BookManagement4Workshop
-# This repository is for Mel906 "
+
+This repository is for Mel-906
